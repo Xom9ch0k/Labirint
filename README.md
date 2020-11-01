@@ -1,2 +1,2 @@
 # Labirint
-![hello].(Безымянный.png)
+![hello](Безымянный.png)
